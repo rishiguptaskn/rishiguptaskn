@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate software developer and an enthusiastic Backend developer from India. I thrive on crafting dynamic and visually appealing user experiences. Let's build something amazing together!</h3>
 
 - 📫 How to reach me: **rishigupta7084@gmail.com**
-- 💬 Ask me about **C/C++, JAVA, Springboot, Backend Development**
+- 💬 Ask me about **C/C++, JAVA, spring, Springboot, Backend Development**
 </br>
 <p style="display: flex; justify-contect: space-between;">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishiguptaskn&show_icons=true&locale=en&layout=compact" alt="rishiguptaskn" />
@@ -53,7 +53,7 @@
 
  ### SpringCart 
  *June 2024*
- *Technologies used* -Java, Spring Boot, MySQL, Spring Security, Spring Data JPA, RESTful APIs 
+ -Technologies used -Java, Spring Boot, MySQL, Spring Security, Spring Data JPA, RESTful APIs 
  - Developed an e-commerce application named SpringCart.
  - Created RESTful APIs to facilitate communication between the frontend and backend, supporting various
    e-commerce functionalities.
@@ -63,7 +63,8 @@
  - 
 ### Console-Based Employee Management System
 *April 2024*
-- Created a command-line application to manage employee records with functionality for adding, viewing, updating, and deleting entries.
+- Created a command-line application to manage employee records with functionality for adding, viewing, updating, and 
+  deleting entries.
 - Utilized Java classes and collections to handle employee data and perform operations efficiently.
 - Designed a user-friendly console interface for seamless interaction and data management.
 - Implemented object-oriented principles to ensure scalable and maintainable code.
