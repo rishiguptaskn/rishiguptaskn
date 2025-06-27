@@ -61,7 +61,7 @@
 
 ---
 
-### 💻 [Console-Based Employee Management System](https://github.com/rishiguptaskn/Employee-Management-System)  
+### 💻 [Console-Based Employee Management System](https://github.com/rishiguptaskn/Employee-Management-project)  
 *April 2024*  
 - Created a command-line application to manage employee records with functionality for adding, viewing, updating, and deleting entries.  
 - Utilized Java classes and collections to handle employee data and perform operations efficiently.  
