@@ -60,7 +60,14 @@
 - Implemented Spring Data JPA for seamless data handling and MySQL for reliable database management.  
 
 ---
-
+### 💻 [Console-Based College Student Database Management System](https://github.com/rishiguptaskn/college_student_management)  
+*june 2025*  
+- Developed a **console-based application** to manage student records for a college, enabling functionalities such as adding, viewing, updating, and deleting student details.  
+- Utilized **Java classes and collections** to structure student data and perform operations efficiently in memory.  
+- Designed a **simple and intuitive user interface** using console input/output to ensure ease of use for administrators.  
+- Applied **object-oriented programming (OOP)** principles for modular, maintainable, and scalable code structure.  
+- Ensured validation and proper handling of edge cases to maintain data accuracy and application stability.
+---
 ### 💻 [Console-Based Employee Management System](https://github.com/rishiguptaskn/Employee-Management-project)  
 *April 2024*  
 - Created a command-line application to manage employee records with functionality for adding, viewing, updating, and deleting entries.  
@@ -72,10 +79,10 @@
 
 ### 🌍 [Portfolio Website](https://github.com/rishiguptaskn/rishigupta.io)  
 *March 2023*  
-- Designed and developed a professional portfolio website using HTML, CSS, and JavaScript.  
-- Showcased my projects, skills, and achievements in a dynamic and user-friendly format.  
-- Implemented responsive design for mobile compatibility and optimized for performance.
-
+- Designed and developed a **responsive portfolio website** using **HTML, CSS, and JavaScript** to highlight personal projects, skills, and achievements.  
+- Created a **visually engaging and user-friendly layout** to enhance readability and navigation for recruiters and visitors.  
+- Ensured **mobile responsiveness** and optimized performance across different devices and screen sizes.  
+- Integrated sections like **About Me, Skills, Projects, and Contact** to present a complete developer profile.
 
 
 
