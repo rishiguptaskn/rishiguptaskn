@@ -70,7 +70,7 @@
 
 ---
 
-### 🌍 [Portfolio Website](https://rishiguptaskn.github.io/)  
+### 🌍 [Portfolio Website]([https://rishiguptaskn.github.io/](https://github.com/rishiguptaskn/rishigupta.io))  
 *March 2023*  
 - Designed and developed a professional portfolio website using HTML, CSS, and JavaScript.  
 - Showcased my projects, skills, and achievements in a dynamic and user-friendly format.  
