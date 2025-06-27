@@ -51,28 +51,31 @@
 
 ## Projects
 
- ### SpringCart 
- *June 2024*
- -Technologies used -Java, Spring Boot, MySQL, Spring Security, Spring Data JPA, RESTful APIs 
- - Developed an e-commerce application named SpringCart.
- - Created RESTful APIs to facilitate communication between the frontend and backend, supporting various
-   e-commerce functionalities.
- - Utilized Spring Security to handle user authentication and authorization, ensuring secure access to application
-   features.
- - Implemented Spring Data JPA for seamless data handling and MySQL for reliable database management.
- - 
-### Console-Based Employee Management System
-*April 2024*
-- Created a command-line application to manage employee records with functionality for adding, viewing, updating, and 
-  deleting entries.
-- Utilized Java classes and collections to handle employee data and perform operations efficiently.
-- Designed a user-friendly console interface for seamless interaction and data management.
+### 🌐 [SpringCart](https://github.com/rishiguptaskn/SpringCart)  
+*June 2024*  
+**Technologies:** Java, Spring Boot, MySQL, Spring Security, Spring Data JPA, RESTful APIs  
+- Developed an e-commerce application named **SpringCart**.  
+- Created RESTful APIs to facilitate communication between the frontend and backend, supporting various e-commerce functionalities.  
+- Utilized Spring Security to handle user authentication and authorization, ensuring secure access to application features.  
+- Implemented Spring Data JPA for seamless data handling and MySQL for reliable database management.  
+
+---
+
+### 💻 [Console-Based Employee Management System](https://github.com/rishiguptaskn/Employee-Management-System)  
+*April 2024*  
+- Created a command-line application to manage employee records with functionality for adding, viewing, updating, and deleting entries.  
+- Utilized Java classes and collections to handle employee data and perform operations efficiently.  
+- Designed a user-friendly console interface for seamless interaction and data management.  
 - Implemented object-oriented principles to ensure scalable and maintainable code.
 
-###  Portfolio Website
-*March 2023*
-- Designed and developed a professional portfolio website using HTML, CSS, and JavaScript to showcase my 
-   projects, skills, and achievements in a dynamic and user-friendly format.
+---
+
+### 🌍 [Portfolio Website](https://rishiguptaskn.github.io/)  
+*March 2023*  
+- Designed and developed a professional portfolio website using HTML, CSS, and JavaScript.  
+- Showcased my projects, skills, and achievements in a dynamic and user-friendly format.  
+- Implemented responsive design for mobile compatibility and optimized for performance.
+
 
 
 
